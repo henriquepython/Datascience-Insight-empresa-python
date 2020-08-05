@@ -7,8 +7,10 @@ Sua principal estratégia é comprar boas casas em ótimas localizações com pr
 
 CAUSA RAIZ
 
-Esse estudo se deve a grande quantidade de casas e atributos que as mesmas tem à disposição, com isso gerando uma alta demanda de análise para escolher as melhores casas, logo era necessário muitas pessoas, e como a demanda é alta e a empresa visa diminuição de custos, logo a mesma necessita filtrar as melhores oportunidades de lucro de uma forma rápida, assertiva e vantajosa, e como forma de alavancar e otimizar o negócio realizei essa trabalho como Data Science.
+Esse estudo se deve a grande quantidade de casas e atributos que as mesmas tem à disposição, com isso gerando uma alta demanda de análise para escolher as melhores casas, logo era necessário muitas pessoas, e como a demanda é alta e a empresa visa diminuição de custos, logo a mesma necessita filtrar as melhores oportunidades de lucro de uma forma rápida, assertiva e vantajosa, e como forma de alavancar e otimizar o negócio realizei esse trabalho como Data Science.
+
 Principais objetivos do meu projeto:
+
 Acelerar o processo de pesquisa mantendo ou até aumentando a precisão de escolha.
 Diminuição dos custos.
 Alavancar vendas.
